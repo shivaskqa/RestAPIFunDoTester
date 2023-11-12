@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-10T14:44:41 IST" name="Default suite" finished-at="2023-11-10T14:44:43 IST" duration-ms="2594">
+    <groups>
+    </groups>
+    <test started-at="2023-11-10T14:44:41 IST" name="Default test" finished-at="2023-11-10T14:44:43 IST" duration-ms="2594">
+      <class name="com.org.ssbms.restassured.PathParametersTest">
+        <test-method signature="testUpdateWithContext(org.testng.ITestContext)[pri:0, instance:com.org.ssbms.restassured.PathParametersTest@71a8adcf]" started-at="2023-11-10T14:44:41 IST" name="testUpdateWithContext" finished-at="2023-11-10T14:44:43 IST" duration-ms="2562" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@14fc5f04]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateWithContext -->
+      </class> <!-- com.org.ssbms.restassured.PathParametersTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

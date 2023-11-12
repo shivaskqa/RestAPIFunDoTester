@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "first_name": "virat",
+    "last_name": "kohli",
+    "email": "virat.kohli@bcci.ind.com",
+    "gender": "male"
+  },
+  {
+    "id": 2,
+    "first_name": "rohit",
+    "last_name": "sharma",
+    "email": "rohit.sharma@bcci.ind.com",
+    "gender": "male"
+  },
+  {
+    "id": 3,
+    "first_name": "suryakumar",
+    "last_name": "yadav",
+    "email": "sky360.yadav@bcci.ind.com",
+    "gender": "male"
+  },
+  {
+    "id": 4,
+    "first_name": "Smrithi",
+    "last_name": "mandhana",
+    "email": "smandanna.grt@bcci.ind.com",
+    "gender": "female"
+  },
+  {
+    "id": 5,
+    "first_name": "Shafali",
+    "last_name": "Verma",
+    "email": "SVermaInd@bcci.ind.com",
+    "gender": "female"
+  },
+  {
+    "id": 6,
+    "first_name": "Harmanpreeth",
+    "last_name": "Kaur",
+    "email": "HKaur@bcci.ind.com",
+    "gender": "female"
+  }
+]
